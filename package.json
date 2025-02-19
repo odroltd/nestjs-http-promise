@@ -1,6 +1,6 @@
 {
   "name": "@odroltd/nestjs-http-promise",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "keywords": [
     "nestjs",
     "http",
